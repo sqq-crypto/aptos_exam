@@ -30,7 +30,7 @@ async function main() {
             "Mark Rhoy M. Sabal",
             "@sqq-crypto",
             "markrhoysbl@gmail.com",
-            "",
+            "@sqq.crypto",
           ],
         },
       });
