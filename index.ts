@@ -8,7 +8,7 @@ async function main() {
     const aptos = new Aptos(config);
 
     /// 4. Wallet Account
-    const PRIVATE_KEY = new Ed25519PrivateKey("ed25519-priv-0x901ccb3c7b651e3b7514439584f30954bcca82d627c2efb53e0a7d544667a375");
+    const PRIVATE_KEY = new Ed25519PrivateKey("ed25519-priv-0xd25d59f43b4b201ff018ae47268b3f71146533e9e351e06105be9dbe17b01871");
 
     const MY_ACCOUNT = Account.fromPrivateKey({
         privateKey: PRIVATE_KEY,
